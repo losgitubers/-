@@ -50,7 +50,7 @@ public class primerodesafiointegrador {
 			while (true) {
 
 				int Numero = entrada.nextInt();
-
+6
 				contador++;
 
 				if (Numero < 1 || Numero > 100) {
